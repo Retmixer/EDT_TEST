@@ -39,6 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.ИНН</constants>
   <catalogs>Catalog.Грейд</catalogs>
   <catalogs>Catalog.Разработчики</catalogs>
 </mdclass:Configuration>
