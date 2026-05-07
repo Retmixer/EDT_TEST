@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="53b74bbe-d9a4-41ae-b412-7e5580e7df0e">
+  <producedTypes>
+    <objectType typeId="b6b76f49-eb39-474c-848e-bb283c4f9d10" valueTypeId="ac051b03-e116-4b3e-aa7d-5cd3cf478f0f"/>
+    <refType typeId="6a0361a7-661b-4258-9ce4-834e614be416" valueTypeId="333fa28b-93d7-401d-9bc4-b1c968dd6db6"/>
+    <selectionType typeId="432769e1-e627-4d80-91b5-3d07e2f1738d" valueTypeId="e125214d-6e8e-410d-b001-72e2aa9cfffe"/>
+    <listType typeId="75666a23-f135-446b-b7dc-668a6c2652ca" valueTypeId="de5f16f9-5ed6-4313-8eea-71c29c3269f0"/>
+    <managerType typeId="3624afa8-e97e-44b5-8bd3-80b24f7aefeb" valueTypeId="ebcd7642-638e-4d0f-a012-88bf74cbdded"/>
+  </producedTypes>
+  <name>Грейд</name>
+  <synonym>
+    <key>ru</key>
+    <value>Грейд</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Грейд.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Грейд.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
